@@ -12,6 +12,8 @@ class Habit(models.Model):
         on_delete=models.CASCADE,
         verbose_name="Владелец привычки",
         help_text="Укажите владельца привычки",
+        blank=True,
+        null=True
     )
 
     place = models.CharField(
