@@ -2,8 +2,8 @@
 1. Клонирование репозитория
 Сначала клонируйте репозиторий на вашу локальную машину с помощью команды git clone. Затем перейдите в папку с проектом с помощью команды cd:
 
-Выполните команду git clone git@github.com:RomanPecheritsa/HabitReminder.git
-Перейдите в каталог проекта: cd HabitReminder
+Выполните команду git clone git@github.com:serejawell/DRFCoursework1.git
+
 2. Копирование файла env.example в .env
 Далее скопируйте файл .env.example в файл .env:
 
